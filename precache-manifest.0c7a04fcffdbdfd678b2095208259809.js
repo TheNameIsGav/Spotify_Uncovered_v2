@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6e0f114bdaad1d7daed2",
-    "url": "/Spotify_Uncovered_v2/static/css/main.57fbc3f4.chunk.css"
+    "revision": "bff0de3e9c58b8f52a4e",
+    "url": "/Spotify_Uncovered_v2/static/css/main.7c24bfd1.chunk.css"
   },
   {
-    "revision": "6e0f114bdaad1d7daed2",
-    "url": "/Spotify_Uncovered_v2/static/js/main.6e0f114b.chunk.js"
+    "revision": "bff0de3e9c58b8f52a4e",
+    "url": "/Spotify_Uncovered_v2/static/js/main.bff0de3e.chunk.js"
   },
   {
     "revision": "2229431793fa7dafa21a",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Spotify_Uncovered_v2/static/js/runtime~main.f3307719.js"
   },
   {
-    "revision": "634fb339404cbf711808f95e45493814",
+    "revision": "02cae1f086888c1186dbae2a1961f095",
     "url": "/Spotify_Uncovered_v2/index.html"
   }
 ];
